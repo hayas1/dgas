@@ -1,0 +1,16 @@
+{
+    "algorithm": "bftmst",
+    "nodes": 100,
+    "frames": 50,
+    "delay": 5,
+    "sended": 166,
+    "received": 166,
+    "sendednodes": 76,
+    "sendednodesrate": 0.76,
+    "receivednodes": 97,
+    "receivednodesrate": 0.97,
+    "connectivity": true,
+    "convergence": true,
+    "convergenceframe": 50,
+    "success": false
+}
