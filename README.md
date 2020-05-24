@@ -1,11 +1,11 @@
-# DGAS(Distributed Graph Algorithm Simulator)
+# Distributed Graph Algorithm Simulator
 
 分散アルゴリズムのシミュレーションを行う
 
 
 # usage
 ## 静的ネットワーク
-unimplemented
+Developing...
 
 ## 動的ネットワーク
 node.Nodeやnode.LoggingNodeを継承したクラスを作成する。
